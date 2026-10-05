@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
+<h1 align="center">Olá, eu sou o Heitor Augusto 👋</h1>
 
 <p align="center">
   Desenvolvedor(a) apaixonado(a) por front-end e inteligência artificial
